@@ -1,5 +1,6 @@
 # Introduction
 
+
 Hi, my name is Jimin, and I am a computer science major at UCSD.
 
 ![Photo of me](./photo.png)
