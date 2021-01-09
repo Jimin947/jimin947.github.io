@@ -2,36 +2,57 @@
 
 Hi, my name is Jimin, and I am a computer science major at UCSD.
 
-![photo of me](./Screen Shot 2021-01-09 at 2.21.11 PM.png)
+![Photo of me](./photo.png)
 
-### Markdown
+My Life Quote:
+> You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill - you stay in Wonderland and I show you how deep the rabbit-hole goes.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***This quote from the matrix gives me the courage to face my troubles***
 
-```markdown
-Syntax highlighted code block
+~~UCSD makes me want to choose the blue pill..~~
 
-# Header 1
-## Header 2
-### Header 3
+## Short Fun Fact
 
-- Bulleted
-- List
+The command `ls` is actually short for list! 
 
-1. Numbered
-2. List
+You can read more about it here: 
+[History of ls](https://en.wikipedia.org/wiki/Ls#:~:text=An%20ls%20utility%20appeared%20in,and%20the%20Single%20Unix%20Specification.)
 
-**Bold** and _Italic_ and `Code` text
+## Relative Link Test
 
-[Link](url) and ![Image](src)
-```
+Click [here](relativeLink)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## My Current Courses
 
-### Jekyll Themes
+- CSE105
+- CSE110
+- COGS108
+- EDS124
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jimin947/jimin947.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## My Favorite Foods Ranked
 
-### Support or Contact
+1. Fried Chicken
+2. Pizza
+3. Sushi
+4. KBBQ 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Stocks to Watch
+
+- EV
+  - Tesla
+  - Nio
+  - FRSX
+- Genomics 
+  - BNGO
+  
+## Things to do
+
+- [ ] Fancy this website
+- [ ] Have a life
+- [x] Have a "oof" moment
+- [x] Enjoy not having morning PT
+- [ ] Watch lecture
+
+Click [here](#introduction) to go back to the top.
+
+
