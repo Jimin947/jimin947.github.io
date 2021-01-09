@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/Jimin947/jimin947.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is Jimin, and I am a computer science major at UCSD.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![photo of me](./Screen Shot 2021-01-09 at 2.21.11 PM.png)
 
 ### Markdown
 
